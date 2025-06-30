@@ -1,0 +1,25 @@
+body{
+  background-color: wheat;
+}
+h1 {
+  background-color: aliceblue;
+  color: black;
+  font-size: 2.5em;
+  text-align: center;
+  font-size: 20pt;
+
+}
+
+p {
+  color: red;
+  padding: 5px;
+  background: lightblue;
+  text-align: center;
+  font-size: medium;
+}
+img{
+  width: 500px;
+  border: 15px solid aliceblue;
+  image-rendering: auto;
+  text-align: center;
+}
