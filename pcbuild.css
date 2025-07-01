@@ -1,1 +1,108 @@
+body{
+    background-color: lightslategrey;
+}
+h1{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 78pt;
+    background-color: lightblue;
+    color: crimson;
+}
 
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+  p{
+    font-size: 40pt;
+    background-color: beige;
+  }
+  
+  h2 {
+  text-align: center;
+  margin-bottom: 15px;
+  font-weight: 600;
+  color: #222;
+}
+
+    body {
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+  padding: 20px;
+  color: #333;
+}
+
+table {
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+  border-collapse: collapse;
+  background: white;
+  box-shadow: 0 0 8px rgba(0,0,0,0.1);
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+table tbody tr:nth-child(odd) {
+  background-color: #fafafa;
+}
+
+table td {
+  padding: 12px 15px;
+  border-bottom: 1px solid #ddd;
+  vertical-align: middle;
+  font-size: 1rem;
+}
+
+table td:first-child {
+  width: 30px;
+  font-weight: bold;
+  color: #555;
+  text-align: right;
+  padding-right: 10px;
+}
+
+table a {
+  color: #007BFF;
+  text-decoration: none;
+}
+
+table a:hover {
+  text-decoration: underline;
+}
+
+h3 {
+  text-align: center;
+  margin: 40px 0 20px;
+  font-weight: 600;
+  color: #222;
+}
+
+   form {
+      background: white;
+      padding: 20px;
+      border-radius: 5px;
+      max-width: 500px;
+      margin: auto;
+    }
+    label {
+      display: block;
+      margin-top: 15px;
+      font-weight: bold;
+    }
+    input[type="text"], input[type="submit"] {
+      width: 100%;
+      padding: 10px;
+      margin-top: 5px;
+      border-radius: 4px;
+      border: 1px solid #ccc;
+    }
+    input[type="submit"] {
+      background-color: #28a745;
+      color: white;
+      cursor: pointer;
+      margin-top: 20px;
+    }
+    input[type="submit"]:hover {
+      background-color: #218838;
+    }
